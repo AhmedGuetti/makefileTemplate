@@ -1,0 +1,2 @@
+# makefileTemplate
+never suffer again
